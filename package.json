@@ -1,0 +1,11 @@
+{
+  "name": "fullstackvueexpress",
+  "version": "1.0.0",
+  "description": "Full Stack Vue And Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Carpenter",
+  "license": "MIT"
+}
