@@ -1,7 +1,7 @@
 //require node path
 const path = require('path');
 
-//export
+//export - like adding proxy in package.json in react
 module.exports = {
 	outputDir : path.resolve(_dirname, '../server/public'),
 	devServer : {
